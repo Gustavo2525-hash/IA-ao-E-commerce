@@ -13,3 +13,6 @@ __pycache__/
 venv/
 .venv/
 env/
+
+# Banco de dados local SQLite
+estoque_mix.db
