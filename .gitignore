@@ -1,0 +1,15 @@
+# Variáveis de ambiente (A regra de ouro da segurança)
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais do VSCode
+.vscode/
+
+# Ambientes virtuais (boas práticas para o futuro)
+venv/
+.venv/
+env/
